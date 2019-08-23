@@ -1,0 +1,10 @@
+{
+    "key1": "some value1 {{var2}}",
+    "key2": {
+        "{{var1}}": "value3 value4 value5"
+        },
+        "key3": [
+            "value2 {{lb}}{{lb}}var3}} abc",
+            "escaped braces: {{var3}}"
+        ]
+}
