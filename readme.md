@@ -1,8 +1,6 @@
 # JSON Templating
 
-## Stage 1
-
-Write a cli tool using any language you like to resolve JSON templating. 
+Simple cli tool to resolve JSON templating. 
 
 The usage of the tool is:
 
